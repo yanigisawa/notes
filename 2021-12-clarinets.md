@@ -1,4 +1,4 @@
-## December 15th, 2021 Concert Notes
+## December 14th, 2021 Concert Notes
 
 ### Hallelujah Chorus
 
