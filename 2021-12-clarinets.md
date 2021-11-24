@@ -23,17 +23,23 @@
 
 **2nd Movement**
 
-- Will be conducted in 6 unless otherwised marked. (i.e. circle 3 in 3/4)
-- Pay close attention 7 measures from the end where there is a measure of 3/8.
+TBD - May be cut from program
+
+- ~~Will be conducted in 6 unless otherwised marked. (i.e. circle 3 in 3/4)~~
+- ~~Pay close attention 7 measures from the end where there is a measure of 3/8.~~
 
 **3rd Movement**
 
-- 10 measures after circle 5, play piano, then crescendo 3 measures later.
+TBD - May be cut from program
+
+- ~~10 measures after circle 5, play piano, then crescendo 3 measures later.~~
 
 ### Deck The Halls with Boughs of Holly
 
-- Practice the Soli's at Box 17 and 3 after 49.
-- Similarly practice the 16th note runs from box 69 through 89. Ideally we'd get that as cleanly as we can with staccato articulation throughout.
+TBD - May be cut from program
+
+- ~~Practice the Soli's at Box 17 and 3 after 49~~
+- ~~Similarly practice the 16th note runs from box 69 through 89. Ideally we'd get that as cleanly as we can with staccato articulation throughout.~~
 
 ### Go Tell it on the Mountain
 
@@ -96,3 +102,6 @@
 |               | John Wood         |
 | Bass Clarinet |                   |
 |               | Flora Garrison    |
+|               | Alice Owens       |
+| Contra Bass   |
+|               | Christopher Daily |
