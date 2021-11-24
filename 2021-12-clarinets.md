@@ -1,6 +1,6 @@
 # December 14th, 2021
 
-## Concert Notes
+## Whole Band Notes
 
 ### Hallelujah Chorus
 
@@ -65,12 +65,7 @@ TBD - May be cut from program
 
 ### New Age Christmas
 
-- Stay together and keep the staccatos clean at box 51 through 54.
 - Cut measures 85 through 88.
-
-### A Christmas Portrait
-
-- 2 before 18 will be played along with a vocalist. Don't overpower the vocals
 
 ### The Christmas Waltz
 
@@ -82,7 +77,22 @@ TBD - May be cut from program
 - Carefully read your rhythm at measures 26 and 27, each section has a slightly different rhythm here.
 - Add a crescendo to the half note at measure 41.
 
-## Lineup
+## Clarinet Section Specific Notes
+
+### Christmas Variants
+
+- Stagger breathe the ostinati from 57 through 80; and at 223 through 233
+- Watch the 8th note runs at boxes 57 - 77, 133, 151, 3 before 161, and after 185.
+
+### New Age Christmas
+
+- Stay together and keep the staccatos clean at box 51 through 54.
+
+### A Christmas Portrait
+
+- 2 before 18 will be played along with a vocalist. Don't overpower the vocals
+
+## Clarinet Lineup
 
 |               |                   |
 | ------------- | ----------------- |
