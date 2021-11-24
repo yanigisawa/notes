@@ -88,10 +88,10 @@
 |               | Sable Stewart     |
 |               | Shelby Ervin      |
 |               | Jennifer Sherbak  |
+|               | Jennifer Tetzlaff |
 | 3rd Part      |                   |
 |               | James Alexander   |
 |               | Margaret Johnston |
-|               | Jennifer Tetzlaff |
 |               | Dennis Schafer    |
 |               | John Wood         |
 | Bass Clarinet |                   |
