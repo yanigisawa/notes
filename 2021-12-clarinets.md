@@ -1,3 +1,8 @@
+---
+layout: page
+title: ISB December 14th 2021 Notes
+---
+
 # December 14th, 2021
 
 ## Whole Band Notes
