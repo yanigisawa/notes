@@ -78,21 +78,21 @@
 
 ## Lineup
 
-|               |                               |
-| ------------- | ----------------------------- |
-| 1st Part      |                               |
-|               | Kaz Chan                      |
-|               | Daisy Chew                    |
-|               | Ed Kingsley                   |
-| 2nd Part      |                               |
-|               | Sable Stewart                 |
-|               | Shelby Ervin                  |
-|               | Jennifer Sherbak              |
-| 3rd Part      |                               |
-|               | James Alexander               |
-|               | Margaret Johnston (Tentative) |
-|               | Jennifer Tetzlaff             |
-|               | Dennis Schafer                |
-|               | John Wood                     |
-| Bass Clarinet |                               |
-|               | Flora Garrison                |
+|               |                   |
+| ------------- | ----------------- |
+| 1st Part      |                   |
+|               | Kaz Chan          |
+|               | Daisy Chew        |
+|               | Ed Kingsley       |
+| 2nd Part      |                   |
+|               | Sable Stewart     |
+|               | Shelby Ervin      |
+|               | Jennifer Sherbak  |
+| 3rd Part      |                   |
+|               | James Alexander   |
+|               | Margaret Johnston |
+|               | Jennifer Tetzlaff |
+|               | Dennis Schafer    |
+|               | John Wood         |
+| Bass Clarinet |                   |
+|               | Flora Garrison    |
