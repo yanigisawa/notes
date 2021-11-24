@@ -1,4 +1,4 @@
-# December 14th, 2021 
+# December 14th, 2021
 
 ## Concert Notes
 
@@ -75,3 +75,24 @@ Read straight through
 
 - Carefully read your rythym at measures 26 and 27, each section has a slightly different rythym here.
 - Add a crescendo to the half note at measure 41.
+
+## Lineup
+
+|               |                               |
+| ------------- | ----------------------------- |
+| 1st Part      |                               |
+|               | Kaz Chan                      |
+|               | Daisy Chew                    |
+|               | Ed Kingsley                   |
+| 2nd Part      |                               |
+|               | Sable Stewart                 |
+|               | Shelby Ervin                  |
+|               | Jennifer Sherbak              |
+| 3rd Part      |                               |
+|               | James Alexander               |
+|               | Margaret Johnston (Tentative) |
+|               | Jennifer Tetzlaff             |
+|               | Dennis Schafer                |
+|               | John Wood                     |
+| Bass Clarinet |                               |
+|               | Flora Garrison                |
