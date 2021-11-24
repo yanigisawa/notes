@@ -4,7 +4,7 @@
 
 ### Hallelujah Chorus
 
-- To better algin with the vocal version of the tune, we're altering the written rythym in several places. 2 measures after A and 2 measures after B is written 8th, 8th, half note quarter note. This will be played **instead as 8th, 8th, dotted quarter note, 8th note quarter note**. (Screenshot below) This should be applied whenever you're playing this melody rythym throughout the piece.
+- To better algin with the vocal version of the tune, we're altering the written rythym in several places. 2 measures after A and 2 measures after B is written 8th, 8th, half note, quarter note. This will be played **instead as 8th, 8th, dotted quarter note, 8th note quarter note**. (Screenshot below) This should be applied whenever you're playing this melody rythym throughout the piece.
 - 3 measures before box G, add breath marks after the dotted quarter notes to bring a clear separation to this line.
 
 <img src="images/hallelujah_isb.png">
