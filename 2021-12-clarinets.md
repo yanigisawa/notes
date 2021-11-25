@@ -112,6 +112,6 @@ TBD - May be cut from program
 |               | John Wood         |
 | Bass Clarinet |                   |
 |               | Flora Garrison    |
-|               | Alice Owens       |
+|               | Alice Homes       |
 | Contra Bass   |
 |               | Christopher Daily |
