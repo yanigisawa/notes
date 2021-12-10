@@ -11,11 +11,12 @@
 5. Midnight Sleighride
 6. Christmas Variants
 7. A Family Christmas
-8. The Christmas Waltz
-9. A Charlie Brown Christmas
-10. Christmas Legends
-11. Go Tell It On The Mountain
-12. Hallelujah Chorus
+8. Sleigh Ride (Trumpet Feature)
+9. The Christmas Waltz
+10. A Charlie Brown Christmas
+11. Christmas Legends
+12. Go Tell It On The Mountain
+13. Hallelujah Chorus
 
 
 ### Hallelujah Chorus
