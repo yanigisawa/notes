@@ -2,6 +2,22 @@
 
 ## Whole Band Notes
 
+### Concert Order
+
+1. Christmast Tryptich
+2. New Age Christmas
+3. A Christmast portrait
+4. I wonder as I Wander
+5. Midnight Sleighride
+6. Christmas Variants
+7. A Family Christmas
+8. The Christmas Waltz
+9. A Charlie Brown Christmas
+10. Christmas Legends
+11. Go Tell It On The Mountain
+12. Hallelujah Chorus
+
+
 ### Hallelujah Chorus
 
 - To better align with the vocal version of the tune, we're altering the written rhythm in several places. 2 measures after A and 2 measures after B are written eigth, eigth, half note, quarter note. This will be played **instead as eigth, eigth, dotted quarter note, eigth note, quarter note**. (Screenshot below) This should be applied whenever you're playing this melody rhythm throughout the piece.
@@ -9,11 +25,13 @@
 
 <img src="images/hallelujah_isb.png">
 
+
 ### Christmas Legends
 
 - Measures 24 and 25 should be played as bell tones, not as a slurred line.
 - 2nd and 3rd clarinets really play full (perhaps a dynamic marking louder) at box 50
 - Disregard the "Solo" marked at box 94. All clarinets should play this line.
+- **Watch John Hillmer Closely on this "solo" section. He wants to have this played more rubato and flowing so watch for ebbs and flows in the tempo**
 
 ### Christmas Tryptich
 
