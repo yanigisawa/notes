@@ -1,8 +1,6 @@
 # December 14th, 2021
 
-## Whole Band Notes
-
-### Concert Order
+## Concert Order
 
 1. Christmast Tryptich
 2. New Age Christmas
@@ -19,6 +17,8 @@
 13. Hallelujah Chorus
 
 
+## Whole Band Notes
+
 ### Hallelujah Chorus
 
 - To better align with the vocal version of the tune, we're altering the written rhythm in several places. 2 measures after A and 2 measures after B are written eigth, eigth, half note, quarter note. This will be played **instead as eigth, eigth, dotted quarter note, eigth note, quarter note**. (Screenshot below) This should be applied whenever you're playing this melody rhythm throughout the piece.
@@ -30,9 +30,7 @@
 ### Christmas Legends
 
 - Measures 24 and 25 should be played as bell tones, not as a slurred line.
-- 2nd and 3rd clarinets really play full (perhaps a dynamic marking louder) at box 50
-- Disregard the "Solo" marked at box 94. All clarinets should play this line.
-- **Watch John Hillmer Closely on this "solo" section. He wants to have this played more rubato and flowing so watch for ebbs and flows in the tempo**
+
 
 ### Christmas Tryptich
 
@@ -97,6 +95,13 @@ TBD - May be cut from program
 - Add a crescendo to the half note at measure 41.
 
 ## Clarinet Section Specific Notes
+
+
+### Christmas Legends
+- 2nd and 3rd clarinets really play full (perhaps a dynamic marking louder) at box 50
+- Disregard the "Solo" marked at box 94. All clarinets should play this line.
+- **Watch John Hillmer Closely on this "solo" section. He wants to have this played more rubato and flowing so watch for ebbs and flows in the tempo**
+
 
 ### Christmas Variants
 
