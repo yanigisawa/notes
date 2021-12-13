@@ -32,7 +32,7 @@
 - Measures 24 and 25 should be played as bell tones, not as a slurred line.
 
 
-### Christmas Tryptich
+### Christmas Tryptych
 
 **1st movement**
 
