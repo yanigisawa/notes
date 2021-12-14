@@ -2,7 +2,7 @@
 
 ## Concert Order
 
-1. Christmas Triptich
+1. Christmas Tryptich
 2. New Age Christmas
 3. Midnight Sleighride 
 1. Christmas Variants
