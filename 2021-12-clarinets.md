@@ -2,15 +2,15 @@
 
 ## Concert Order
 
-1. Christmast Tryptich
+1. Christmas Triptich
 2. New Age Christmas
-3. A Christmast portrait
+3. Midnight Sleighride 
+1. Christmas Variants
+1. A Family Christmas
+1. Sleigh Ride (Trumpet Feature)
+1. The Christmas Waltz
 4. I wonder as I Wander
-5. Midnight Sleighride
-6. Christmas Variants
-7. A Family Christmas
-8. Sleigh Ride (Trumpet Feature)
-9. The Christmas Waltz
+1. A Christmas portrait
 10. A Charlie Brown Christmas
 11. Christmas Legends
 12. Go Tell It On The Mountain
