@@ -1,6 +1,6 @@
 # Indiana Wind Symphony
 
-[Current Concert Notes](/2021-12-iws-clarinets)
+[Current Concert Notes](/2022-02)
 
 The Google calendar for upcoming rehearsals and concerts is below:
 

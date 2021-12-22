@@ -1,5 +1,5 @@
 ## Notes
 
-[ISB Christmas 2021 Notes](2021-12-clarinets)
+[ISB Notes](/isb)
 
-[IWS Christmas 2021 Notes](2021-12-iws-clarinets)
+[IWS Notes](/iws)
