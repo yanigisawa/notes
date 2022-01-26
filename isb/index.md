@@ -1,6 +1,6 @@
 # Indianapolis Symphonic Band
 
-[Current Concert Notes](/isb/2022-02)
+[Current Concert Notes](/isb/2022-03)
 
 The Google calendar for the band rehearsals is below:
 
