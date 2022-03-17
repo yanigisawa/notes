@@ -1,6 +1,6 @@
 # Indianapolis Symphonic Band
 
-[Current Concert Notes](/isb/2022-03)
+[Current Concert Notes](/isb/2022-04)
 
 ## Calendar
 
