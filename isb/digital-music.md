@@ -1,16 +1,8 @@
-# Getting Started: Using iPad for Reading Music
+# Using iPad for Reading Music
 
-Most of this article will instruct folks how to utilize the iPad effectively for reading music during rehearsals and performances, particularly through apps like Newzik and ForScore.
+Most of this article will instruct folks how to utilize the iPad effectively for reading music. If you don't own an iPad, scroll to the bottom to see some Android Alternatives. 
 
-# Android Alternatives
-
-If you don't own an iPad, there are Android alternatives. If you already own an Android tablet, the below apps may be useful alternatives to their iPad equivalents. I haven't run these apps myself, but they do look promising from their websites.
-
-Android Alternatives: [MobileSheets](https://www.zubersoft.com/mobilesheets/) and [MusicReader](https://www.musicreader.net/)
-
-For a list of iPad alternatives, see this article that discusses [some alternative tablets.](https://www.creativebloq.com/buying-guides/best-ipad-alternatives#section-best-cheap-samsung-ipad-alternative)
-
-# iPad Apps
+## iPad Apps
 
 In order to be able to add markings to your music, you'll need to use an app that allows for annotations. The standard PDF reader in the iPad is read-only, so you'd be unable to add annotations, cuts, etc. in the music which may be required for a given performance.
 
@@ -63,6 +55,14 @@ Maybe. This is a personal choice and is not required. Most music has sufficient 
 **Do I need an Apple Pencil to annotate my music?**
 
 No. The annotations work with your finger. Both Newzik and forScore will use a "magnified" section of the screen to allow for fine-grained positioning of annotations. Writing special instructions is a little cumbersome with one's finger, but it can be done. 
+
+# Android Alternatives
+
+If you don't own an iPad, there are Android alternatives. If you already own an Android tablet, the below apps may be useful alternatives to their iPad equivalents. I haven't run these apps myself, but they do look promising from their websites.
+
+Android Alternatives: [MobileSheets](https://www.zubersoft.com/mobilesheets/) and [MusicReader](https://www.musicreader.net/)
+
+For a list of iPad alternatives, see this article that discusses [some alternative tablets.](https://www.creativebloq.com/buying-guides/best-ipad-alternatives#section-best-cheap-samsung-ipad-alternative)
 
 
 ### Other Questions?
