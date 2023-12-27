@@ -4,7 +4,7 @@ Most of this article will instruct folks how to utilize the iPad effectively for
 
 # Android Alternatives
 
-If you don't own an iPad, there are Android alternatives. If you already own an Android table, the below apps may be useful alternatives to their iPad equivalents. I haven't run these apps myself, but they do look promising from their websites.
+If you don't own an iPad, there are Android alternatives. If you already own an Android tablet, the below apps may be useful alternatives to their iPad equivalents. I haven't run these apps myself, but they do look promising from their websites.
 
 Android Alternatives: [MobileSheets](https://www.zubersoft.com/mobilesheets/) and [MusicReader](https://www.musicreader.net/)
 
@@ -62,7 +62,7 @@ Maybe. This is a personal choice and is not required. Most music has sufficient 
 
 **Do I need an Apple Pencil to annotate my music?**
 
-No. The annotations work with your figure. Both Newzik and forScore will use a "magnified" section of the screen to allow for fine-grained positioning of annotations. Writing special instructions is a little cumbersome with one's finger, but it can be done. 
+No. The annotations work with your finger. Both Newzik and forScore will use a "magnified" section of the screen to allow for fine-grained positioning of annotations. Writing special instructions is a little cumbersome with one's finger, but it can be done. 
 
 
 ### Other Questions?
