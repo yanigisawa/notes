@@ -30,10 +30,10 @@ You'll need to extract the contents of the .zip file to see the PDF files. Right
 
 <img src="images/extract_all.png" />
 
-A new window will open asking where you want your extract music to be placed. You can pick the default. This will make a new folder with the same name as the .zip file, and all of the PDFs will be in that folder.
+A new window will open asking where you want your extract music to be placed. You can leave the default selection. This will make a new folder with the same name as the .zip file, and all of the PDFs will be in that folder. Click the **"Extract"** button to extract the files.
 
 <img src="images/extract_all_modal.png" />
 
-You can now open the PDFs in your favorite PDF reader, such as Adobe Acrobat Reader, or in a music reader like Newzik or forScore.
+You can now open the PDFs in your favorite PDF reader. Most browsers have a built-in PDF reader, but you can also use Adobe Acrobat Reader or another PDF reader of your choice.
 
 <img src="images/extracted_music.png">
