@@ -12,19 +12,13 @@
 
 <img src="images/dropbox_cookie_warning.png">
 
-### Chrome on a Mac
+### Microsoft Edge / Chrome on Windows
 
-If you used Chrome to download the files, a new folder will be created in your "Downloads" folder. The name of the new folder will depend on how the music has been shared. In the screenshot below, the folder is named "shared_music". Open that folder to see all of the PDFs you can open and download.
-
-<img src="images/downloaded_music.png" />
-
-### Microsoft Edge
-
-If you Microsoft Edge to download the Dropbox folder, an new .zip file will be downloaded to your "Downloads" folder. You can use the "Show in Folder" to open Windows Explorer directly to your Downloads folder:
+If you used Microsoft Edge or Chrome to download the Dropbox folder, a new .zip file will have been downloaded to your "Downloads" folder. You can use the "Show in Folder" to open Windows Explorer directly to your Downloads folder:
 
 <img src="images/show_in_folder.png" />
 
-### Extracting From .ZIP
+#### Extracting From .ZIP
 
 You'll need to extract the contents of the .zip file to see the PDF files. Right-click on the .zip file and select "Extract All" to extract the contents of the .zip file.
 
@@ -37,3 +31,9 @@ A new window will open asking where you want your extract music to be placed. Yo
 You can now open the PDFs in your favorite PDF reader. Most browsers have a built-in PDF reader, but you can also use Adobe Acrobat Reader or another PDF reader of your choice.
 
 <img src="images/extracted_music.png">
+
+### Chrome on a Mac
+
+If you used Chrome to download the files, a new folder will be created in your "Downloads" folder. The name of the new folder will depend on how the music has been shared. In the screenshot below, the folder is named "shared_music". Open that folder to see all of the PDFs you can open and download. Files will be extracted automatically.
+
+<img src="images/downloaded_music.png" />
