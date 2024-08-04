@@ -14,7 +14,7 @@ Depending on your computer's screen size, the cookies warning may be blocking th
 
 ### Microsoft Edge / Chrome on Windows
 
-If you used Microsoft Edge or Chrome to download the Dropbox folder, a new .zip file will have been downloaded to your "Downloads" folder. You can use the "Show in Folder" to open Windows Explorer directly to your Downloads folder:
+If you used Microsoft Edge or Chrome to download the Dropbox folder, a new .zip file will have been downloaded to your "Downloads" folder. You can use the "Show in Folder" button to open Windows Explorer directly to your Downloads folder:
 
 <img src="images/show_in_folder.png" />
 
