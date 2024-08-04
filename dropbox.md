@@ -8,7 +8,7 @@
 
 ## Troubleshooting
 
-- Depending on your computer's screen size, the cookies warning may be blocking this link. If so, click the "Decline" button to dismiss the cookie warning so that you can see the download button.
+Depending on your computer's screen size, the cookies warning may be blocking this link. If so, click the "Decline" button to dismiss the cookie warning so that you can see the download button.
 
 <img src="images/dropbox_cookie_warning.png">
 
