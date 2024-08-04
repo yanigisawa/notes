@@ -12,7 +12,7 @@
 
 <img src="images/dropbox_cookie_warning.png">
 
-### Chrome
+### Chrome on a Mac
 
 If you used Chrome to download the files, a new folder will be created in your "Downloads" folder. The name of the new folder will depend on how the music has been shared. In the screenshot below, the folder is named "shared_music". Open that folder to see all of the PDFs you can open and download.
 
