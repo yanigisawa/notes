@@ -2,7 +2,7 @@
 
 ## Goal
 
-The ISB seeks to inventory the existing file cabinets full of Jazz band music. At present no information is known about any of the pieces of music, other than that these physical file cabinets contain jazz band music.
+The ISB seeks to inventory the existing file cabinets full of Jazz band music. At present, no information is known about any of the pieces of music, other than that they reside in these physical file cabinets.
 
 ## Proposed Solution
 
@@ -40,6 +40,6 @@ One option is to have the volunteers rename the file names of the images once th
 
 ## Challenges
 
-1. The library location is in a closet of Warren Central high school. Because of the build materials of the room where the music is stored, the room is effectively a [Faraday cage](https://en.wikipedia.org/wiki/Faraday_cage). This means that there is no cell phone signal in the room. This will require the volunteers to leave the room to upload the images. This also restricts any use of cloud services from _within_ the room.
+1. The library location is in a closet of Warren Central high school. This room is effectively a [Faraday cage](https://en.wikipedia.org/wiki/Faraday_cage), due to the materials used in the building. This means that there is no cell phone signal in the room. This will require the volunteers to leave the room to upload the images. This also restricts any use of cloud services from _within_ the room.
 
 2. There is not a lot of room in the library itself. There is enough room for a few folding tables laid end to end, and 2 volunteers on each side, but not much more room than that. This will limit the number of volunteers that can be recruited for the project.
