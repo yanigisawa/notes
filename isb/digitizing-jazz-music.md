@@ -38,6 +38,10 @@ Once the spreadsheet is created, a team of volunteers will be recruited to manua
 
 One option is to have the volunteers rename the file names of the images once they've been input into the spreadsheet. Or consider using an "Archive" folder that the image can be moved to upon entering into the spreadsheet.
 
+### Phase 5: Upload to My Music Office
+
+Once a spreadsheet has been created, a CSV can be uploaded to My Music Office which is considered the "source of truth" for ISB's music library.
+
 ## Challenges
 
 1. The library location is in a closet of Warren Central high school. This room is effectively a [Faraday cage](https://en.wikipedia.org/wiki/Faraday_cage), due to the materials used in the building. This means that there is no cell phone signal in the room. This will require the volunteers to leave the room to upload the images. This also restricts any use of cloud services from _within_ the room.
