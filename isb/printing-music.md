@@ -4,6 +4,14 @@ Standard paper that is distributed for home use is 20lb paper. This is great for
 
 Most at home printers can comfortably print using **28lb paper.** Some of the heavier pieces of music distributed from the ISB library were printed on 32lb paper. However, some home printers do not support this heavy weight paper. Therefore, we recommend using 28lb paper. This weight paper is available both at office supply stores (Office Depot) and at general stores like Wal-mart and Meijer. Note however that the 20lb paper is far more common than heavier paper, so be careful when identifying the weight of the paper before making a special purchase.
 
+## 3-Ring Binders
+
+If you wish, the ISB will provide you with a standard music folder you can use to hold your music.
+
+As an alternative, you can use a 3-ring binder. When the order gets changed, or you drop your music, or the pages get out of order, it is a real pain to shuffle individual sheets of paper. You can punch holes in your music and place it in a 3 ringed binder alphabetically. If you also place dividers in there, it is easy to jump to a specific piece. A thin binder will easily fit on your stand. Having all the music in a binder helps keep the music organized and easy to transport.
+
+If you do this, **make sure you punch holes on the right side** of the music that you want to open on the left side of the your binder. Music that opens on the right side of your binder should have holes punches on the left side of the music. You can also arrange your music so that you have no awkward page turns if you do it this way.
+
 ## Fit to Page
 
 When printing your parts, you'll likely need to find the "Fit to Page" setting of the print modal that appears when printing each piece of music. Several of these tunes were scanned from pieces of paper that were non-standard 8.5" / 11" paper. To give you the best reading experience, use the "Fit to Page" setting. The exact location of this check box varies from printer to printer and computer to computer. However it generally resides in the "Printer Options" or "Page Options" section of the modal that appears when printing a PDF. On my Mac, this option is actually called "Fill Entire Paper":
