@@ -5,13 +5,13 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="https://secure-prod.mymusicoffice.com/db/favicon.ico">
 
   <title>My Music Office Report</title>
   <style type="text/css">
-    <!--
     .style1 {
-      font-size: 14px
+      font-size: 14px;
     }
 
     body,
@@ -60,7 +60,85 @@
       border-right-width: 1px;
       border-right-color: #999999;
     }
-    -->
+
+    /* Responsive styles */
+    html {
+      box-sizing: border-box;
+    }
+
+    *,
+    *:before,
+    *:after {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: #fff;
+    }
+
+    table {
+      width: 100%;
+      max-width: 100%;
+      border-collapse: collapse;
+      overflow-x: auto;
+      display: block;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    td,
+    th {
+      word-break: break-word;
+      padding: 4px;
+    }
+
+    @media (max-width: 700px) {
+
+      .style1,
+      .style2 {
+        font-size: 4vw;
+      }
+
+      body,
+      td,
+      th {
+        font-size: 3vw;
+      }
+
+      table,
+      tbody,
+      tr,
+      td,
+      th {
+        display: block;
+        width: 100%;
+      }
+
+      tr {
+        margin-bottom: 10px;
+        border-bottom: 1px solid #ccc;
+      }
+
+      td,
+      th {
+        padding: 6px 2vw;
+        border: none !important;
+      }
+
+      .borderbottomthinblack,
+      .bordergray4sides,
+      .bordergraybottom,
+      .bordergraytop,
+      .bordergrayleft,
+      .bordergrayright {
+        border: none !important;
+      }
+    }
   </style>
 </head>
 
@@ -112,7 +190,8 @@
                     <tbody>
                       <tr>
                         <td width="3%" class="bordergraybottom bordergraytop bordergrayleft bordergrayright">
-                          <strong>#</strong></td>
+                          <strong>#</strong>
+                        </td>
                         <td width="7%" class="bordergraybottom bordergraytop bordergrayright"><strong>Lib. ID</strong>
                         </td>
                         <td width="22%" class="bordergraybottom bordergraytop bordergrayright"><strong>Title</strong>
